@@ -1,4 +1,4 @@
-package com.example.edamamapp
+package com.example.edamamapp.test
 
 import retrofit2.Call
 import retrofit2.Response
