@@ -1,4 +1,4 @@
-package com.example.edamamapp
+package com.example.edamamapp.test
 
 import android.util.Log
 

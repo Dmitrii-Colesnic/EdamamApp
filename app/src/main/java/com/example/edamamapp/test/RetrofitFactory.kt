@@ -1,9 +1,8 @@
-package com.example.edamamapp
+package com.example.edamamapp.test
 
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
-import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.converter.scalars.ScalarsConverterFactory
 
 const val BASE_URL = "https://api.edamam.com/"
